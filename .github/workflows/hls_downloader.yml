@@ -21,8 +21,8 @@ jobs:
       - name: Gerekli paketleri yükle
         run: pip install requests
 
-      - name: m3utojson.py scriptini çalıştır
-        run: python m3utojson.py
+      - name: playlist.m3u scriptini çalıştır
+        run: python playlist.m3u
 
       - name: m3u8 klasörünü oluştur ve dosyaları taşı
         run: |
