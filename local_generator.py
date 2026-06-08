@@ -3,12 +3,12 @@ import subprocess
 
 # Güncel ve doğrulanmış YouTube IPTV kanal listesi
 kanallar = [
-    ("trthaber", "TRT Haber", "https://www.youtube.com/@trthaber/live"),
-    ("cnnturk", "CNN Türk", "https://www.youtube.com/@cnnturk/live"),
-    ("ntv", "NTV", "https://www.youtube.com/@ntv/live"),
-    ("ahaber", "A Haber", "https://www.youtube.com/@Ahaber/live"),
-    ("haberturk", "Haber Türk", "https://www.youtube.com/@haberturktv/live"),
-    ("halktv", "Halk TV", "https://www.youtube.com/@Halktvkanali/live"),
+    ("institutohesed", "Instituto Hesed", "https://www.youtube.com/@institutohesed/live"),
+    ("getv", "Ge TV", "https://www.youtube.com/@getv/live"),
+    ("casetv", "Caze TV", "https://www.youtube.com/@CazeTV/live"),
+    ("tntsportsbr", "TNT Sports BR", "https://www.youtube.com/@TNTSportsBR/live"),
+    ("recordnews", "Record News", "https://www.youtube.com/@recordnews/live"),
+    ("sbt", "SBT", "https://www.youtube.com/@sbt/live"),
     ("sozcutelevizyonu", "Sözcü TV", "https://www.youtube.com/@sozcutelevizyonu/live"),
     ("tgrthaber", "TGRT Haber", "https://www.youtube.com/@tgrthaber/live"),
     ("flashhaber", "Flash Haber", "https://www.youtube.com/@FlashHaberTV/live"),
